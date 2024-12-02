@@ -2,6 +2,8 @@
 
 Team:  goofy goobers
 
+Best neighborhood for college students and/or people in their early twenties.
+
 Ruby Heath
 rsh67@pitt.edu
 
