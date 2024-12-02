@@ -2,7 +2,8 @@
 
 Team:  goofy goobers
 
-Best neighborhood for college students and/or people in their early twenties.
+This repository examines three different databases to determine the best neighborhood in Pittsburgh for college students and/or people in their early twenties.
+
 
 Ruby Heath
 rsh67@pitt.edu
