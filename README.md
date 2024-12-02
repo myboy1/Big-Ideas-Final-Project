@@ -9,7 +9,7 @@ rsh67@pitt.edu
 
 City Facilities Dataset:
 https://data.wprdc.org/dataset/city-of-pittsburgh-facilities
-This is a dataset of all of the city facilities (fire stations, public pools, rec centers) in the city of Pittsburgh.
+This is a dataset of all of the city facilities (fire stations, public pools, rec centers, ect.) in the city of Pittsburgh.
 
 
 Abigail Koss
