@@ -1,0 +1,16 @@
+﻿_id	Name	fieldName	fieldDescription	dataType	dataFormat	length	uniqueID	permittedValues	fieldPublicAccessLevel	fieldPublicAccessLevelComment
+1	Description	Field name	Description of the data field	Data type (text, numeric, boolean, etc.)	Special details related to data format (number of decimal places, date format, etc.	Field length	Does this field contain a unique ID or primary key?	Describes values permitted to be included in this field, if applicable	Describes if this field is subject to any public access limitations (public, sensitive, private)	An explanation for the field's selected “accessLevel” including instructions for how to access a restricted file, if applicable, or explanation for why a “non-public” or “restricted public” data asset is not “public,” if applicable. Also note options for making the data public, where appropriate, including obfuscation, aggregation, or anonymization.
+2	Required	Y	Y	N	N	N	N	N	N	N
+3	""	PK	Automated, unique incident ID number	text	""	""	Yes	""	""	""
+4	""	CCR	Incident Report Number	text	""	""	""	""	""	""
+5	""	HIERARCHY	The highest UCR hierarchy (based on all offenses) for the incident	int	""	""	""	""	""	""
+6	""	INCIDENTTIME	Time and date of incident	text	""	""	""	""	""	""
+7	""	INCIDENTLOCATION	Location of incident	text	""	""	""	""	Sensitive	Published at block level
+8	""	CLEARED_FLAG	Whether or not the incident was cleared/closed	text	""	""	""	Y, N	""	""
+9	""	INCIDENTNEIGHBORHOOD	Neighborhood where incident took place	text	""	""	""	""	""	""
+10	""	INCIDENTZONE	Pittsburgh Police Zone where incident took place	text	""	""	""	""	""	""
+11	""	HIERARCHY_DESC	Description of the highest UCR hierarchy (based on all offenses) for the incident	text	""	""	""	""	""	""
+12	""	OFFENSES	All offenses listed for the incident	text	""	""	""	""	""	""
+13	""	INCIDENTTRACT	Tract number where incident took place	float	""	""	""	""	""	""
+14	""	X	The geocoded X coordinate of the incident location (using county geocoder)	float	Coordinate	""	""	""	""	""
+15	""	Y	The geocoded Y coordinate of the incident location (using county geocoder)	float	Coordinate	""	""	""	""	""
