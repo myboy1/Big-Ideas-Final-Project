@@ -23,5 +23,5 @@ This is a data set of all of the parks in the city of Pittsburgh.
 
 Margo Brown
 meb471@pitt.edu
-https://data.wprdc.org/datastore/dump/e03a89dd-134a-4ee8-a2bd-62c40aeebc6f
-This is a dataset of all the arrests in the city of Pittsburgh.
+https://data.wprdc.org/dataset/5e6711a3-90e5-457d-8c73-445fb5f363e2/resource/a0e233b3-8cfc-441a-a37e-d396579d20ea/download/archived-blotter-data-dictionary.xlsx
+This is a dataset of all the police incident in the city of Pittsburgh.
